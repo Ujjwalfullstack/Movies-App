@@ -24,7 +24,7 @@ Node.js and npm are installed on your machine.
 
 #### Installation
 1. Clone the repository:
-git clone![](https://github.com/Ujjwalfullstack/Movies-App)
+[git clone link!](https://github.com/Ujjwalfullstack/Movies-App)
 
 2. Change to the project directory:
 cd my-app
