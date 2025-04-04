@@ -14,7 +14,7 @@ Performance optimizations for quick loading.
 Error handling and graceful fallbacks.
 
 ## Demo
-Live Demo
+[Live link](https://moviesverseujjwal.netlify.app/)
 
 ## Getting Started
 These instructions will help you set up and run the project on your local machine.
